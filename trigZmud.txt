@@ -1,0 +1,16 @@
+Has tenido una laguna mental mientras invocabas el hechizo.
+Algo en tu garganta impide que recites bien la frase.
+Has perdido la concentracion.
+Pierdes la concentracion.
+Algo te distrae y pierdes la concentracion.
+
+
+El objeto '%1' es un(a) varita, propiedades especiales: *$
+Tiene %d~((%d)~) cargas de nivel %w '%w'.
+
+Una varita de adivinacion se apaga lentamente.
+
+Una varita de adivinacion brilla por unos segundos...
+Una varita de adivinacion tiene un tacto calido.
+Una varita de adivinacion se desintegra en tus manos.
+caca
